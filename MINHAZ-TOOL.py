@@ -1,5 +1,5 @@
-# Compile by NAHID
- # WhatsApp +8801923092304
+# Compile by FAISAL
+ # WhatsApp +92 3142108093
  # Facebook : https://www.facebook.com/ERR0RS
 
 import marshal
